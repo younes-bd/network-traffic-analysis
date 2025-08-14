@@ -37,3 +37,9 @@ This project simulates a real-world cybersecurity scenario to demonstrate techni
 - Understanding of threat hunting and incident response workflow.
 
 ## References
+- [MITRE ATT&CK Framework](https://attack.mitre.org/)
+- [OWASP Top 10](https://owasp.org/www-project-top-ten/)
+
+---
+*Author: [younes-bd](https://github.com/younes-bd)*
+
